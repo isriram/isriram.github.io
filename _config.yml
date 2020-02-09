@@ -1,6 +1,6 @@
 author: Sriram Iyer
 email: sriramkannaniyer@gmail.com
-title: Sriram's knowledge repository
+title: Sriram Iyer
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -13,14 +13,14 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Sriram Iyer
-  tagline: Engineer, Hacker, Coder, Writer
+  tagline: Engineer, Hacker
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
     # twitter: thelehhman
-    # github:  thelehhman
+    github:  isriram
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
